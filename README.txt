@@ -21,3 +21,7 @@ java -cp target/psp01-1.0-SNAPSHOT edu.uniandes.ecos.ui.Main
 
 Colocar las aplicaciones en /src/main/resources/
 
+HEROKU
+
+La URL publica de Heroku es https://adlopez11-psp01.herokuapp.com/
+
